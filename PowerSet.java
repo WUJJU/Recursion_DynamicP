@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 public class PowerSet{
- 
+ //N subset is add array[N] to N-1 subsets and combine
   static ArrayList<String> set=new ArrayList<String>();
 
  
