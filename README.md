@@ -17,3 +17,6 @@ for(int row: array) can iterat the double dimension array
 but optimal substructure may need compare with or without items, it's not greedy optimal. Without comparision, some Optimal substurcutre can't be found like 0-1 bag problem 
 
 
+# recursion 
+
+all if condition should use return, then it will return back.
