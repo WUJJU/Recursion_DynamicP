@@ -20,3 +20,9 @@ but optimal substructure may need compare with or without items, it's not greedy
 # recursion 
 
 all if condition should use return, then it will return back.
+
+# Hanoi Problem
+
+Use Base and Build Approach, use one of three stack as buffer. 
+
+Think reversely, the last item put on destination. The left (N-1) is another N, Recursively do it. 
